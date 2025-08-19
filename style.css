@@ -1,0 +1,33 @@
+.resume-container {
+    width: 850px;
+    margin: 30px auto;
+    border: 2px solid black;
+    background: white;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.3);
+}
+
+.header {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.content {
+    padding: 20px;
+}
+
+h3 {
+    color: blue;
+    margin-bottom: 6px;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+img {
+    border: 1px solid black;
+}
